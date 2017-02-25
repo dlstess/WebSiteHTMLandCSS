@@ -1,7 +1,31 @@
+body > header{
+    padding-top: 20px;
+    background: url('/images/steel-bg.jpg') no-repeat;
+    background-size: cover;
+    border: 1px solid;
+    height: 735px;
+}
 #username{
     background-color: beige;
 }
 #password{
     background-color: beige;
+
+}
+
+#menu{
+    border: 1px solid;
+    text-align: center;
+    height: 40px;
+    background-color: burlywood;
+    border-radius: 3px;
+    width: 80%;
+    margin: auto;
+}
+
+a{
+    padding: 20px;
+    text-decoration: none;
+    color: white;
 
 }
