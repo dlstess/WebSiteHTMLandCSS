@@ -169,11 +169,53 @@ footer{
 #container3{
     background: url("../images/background-choose-us.jpg") no-repeat;
     height: 250px;
-    opacity: 0.8;
+    opacity: 5.8;
     text-align: center;
-    padding-top: 30px;
+    padding-top: 20px;
+
+
 
 }
-#container3>h1{
+#container3>div{
+    /*border: 1px solid red;*/
+    width: 20%;
+    display: inline-block;
+    color: white;
+    margin: 20px;
+}
+#container4{
+    background: url("../images/consulting-woman.jpg") no-repeat;
+    height: 600px;
+    padding-top: 30px ;
+    padding-left: 30px;
 
+
+}
+#container4-left{
+    width: 40%;
+    height: 400px;
+    background: white;
+    padding-top: 40px;
+
+}
+#container4-left-in{
+    width: 390px;
+    height: 270px;
+    background: darkblue;
+    background-color:#191950;
+    margin: auto;
+    padding-left: 5px;
+}
+#container4-left-in>h1{
+    padding-left: 5px;
+}
+#container4-left-in>p{
+    padding-right: 0px;
+}
+p.aside{
+    border: solid ;
+    color: grey;
+}
+table,td{
+    border: 1px solid black;
 }
